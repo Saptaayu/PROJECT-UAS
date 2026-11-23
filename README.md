@@ -18,6 +18,6 @@ Proses pemesanan dan pencatatan transaksi kasir di kedai Kopi Kenangan secara ma
 
 | Nama | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Link Pull Request Utama |
 |------|-------------|--------------------------------------|--------------------------|
-| Muhamad Rasya Aprillah Al Farisi | @rasyaalfarisi25| Setup, tipe data, data awal (seed), fungsi input, dan validasi, fitur CREATE, menu utama (loop) | (menyusul) |
-| Elvaretta Dwi Aristawati | @Elvaretta12 | Logika biaya dan diskon (materi UTS), fitur DELETE dan fitur SEARCH (kata kunci + filter) | (menyusul) |
-|Sapta Ayu Mardani| @Saptaayu | Fungsi tampilan, fitur READ (semua data, detail per ID, ringkasan) dan fitur UPDATE | (menyusul) |
+| Muhamad Rasya Aprillah Al Farisi | @rasyaalfarisi25| Rencana: fitur Read(semua dan detail by ID), fitur Update,laporan Bab I. | (menyusul) |
+| Elvaretta Dwi Aristawati | @Elvaretta12 | Rencana: setup repository, struktur data dan data awal (seed), menu utama (loop), fitur Create dan validasi input, flowchart. | (menyusul) |
+|Sapta Ayu Mardani| @Saptaayu | Rencana: fitur Delete, fitur Search, integrasi operator dan seleksi kondisi, README. | (menyusul) |
