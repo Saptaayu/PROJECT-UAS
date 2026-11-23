@@ -2,11 +2,11 @@
 === PENGUMPULAN PROGRESS 1 — UAS PEMROGRAMAN DASAR ===
 Kelas / Kelompok   : T1[D] / Kelompok-[01]
 Judul / Tema       : [KasirKopiKenangan]
-Link Repo Public   : https://github.com/[username-pemilik]/[nama-repo]
+Link Repo Public   : https://github.com/Saptaayu/PROJECT-UAS.git
 
 Daftar Anggota & Akun GitHub:
-1. [p] - [NIM] (@[username_github_1])
-2. [Nama Lengkap Anggota 2] - [NIM] (@[username_github_2])
+1. [Muhamad Rasya Aprillah Al Farisi ] - [263140701111047] (@[Elvaretta12])
+2. [Elvaretta Dwi Aristawati] - [263140701111052] (@[username_github_2])
 3. [Nama Lengkap Anggota 3] - [NIM] (@[username_github_3])  *(hapus jika tim 2 orang)
 
 Ringkasan Capaian Progress 1:
