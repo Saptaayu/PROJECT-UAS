@@ -5,9 +5,9 @@ Judul / Tema       : [KasirKopiKenangan]
 Link Repo Public   : https://github.com/[username-pemilik]/[nama-repo]
 
 Daftar Anggota & Akun GitHub:
-1. [p] - [NIM] (@[username_github_1])
-2. [Nama Lengkap Anggota 2] - [NIM] (@[username_github_2])
-3. [Nama Lengkap Anggota 3] - [NIM] (@[username_github_3])  *(hapus jika tim 2 orang)
+1. [Elvaretta Dwi Aristawati] - [263140701111052] (@[Elvaretta12_github_1])
+2. [Sapta Ayu Mardani] - [263140701111056] (@[Saptaayu_github_2])
+3. [Muhamad Rasya Aprillah Al Farisi] - [263140701111047] (@[username_github_3])  *(hapus jika tim 2 orang)
 
 Ringkasan Capaian Progress 1:
 - Repository Public aktif dengan struktur awal (.gitignore, tsconfig.json, package.json, src/index.ts) dan program "Hello console" dapat dijalankan semua anggota.
